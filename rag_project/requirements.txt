@@ -1,20 +1,28 @@
 langchain
 langchain-community
+langchain-core
+langchain-text-splitters
 langchain-openai
-langchain-chroma
-chromadb
-unstructured
-pypdf
-pytesseract
-pillow
-openai
-pydantic
-streamlit
-python-dotenv
-tiktoken
-sentence-transformers
 langchain-groq
 langchain-huggingface
-langchain-text-splitters
+langchain-chroma
+chromadb
+streamlit
+python-dotenv
+pydantic
+# Document Loaders & Processing
+pypdf
 pdf2image
+pytesseract
+pillow
 docx2txt
+python-docx
+unstructured
+# Embeddings
+sentence-transformers
+# Model providers
+openai
+tiktoken
+google-generativeai
+pymupdf4llm
+langchain-google-genai
