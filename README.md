@@ -42,8 +42,8 @@ The application follows a modular architecture designed for scalability and main
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/Ai_DevAssure.git
-    cd Ai_DevAssure
+    git clone https://github.com/K-Tikaraya/File-Based-Multimodal-RAG-for-Test-Case-Use-Case-Generation.git
+    cd rag_project
     ```
 
 2.  **Create a Virtual Environment**:
