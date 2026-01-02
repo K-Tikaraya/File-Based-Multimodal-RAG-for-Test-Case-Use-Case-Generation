@@ -2,6 +2,11 @@
 
 This project is a robust, multi-modal Retrieval Augmented Generation (RAG) application designed to automate the creation of QA test cases. By ingesting Product Requirement Documents (PRDs), API Specifications, and UI screenshots, it leverages advanced Large Language Models (LLMs) to generate comprehensive test suites, covering positive, negative, and boundary scenarios.
 
+
+- **Demo Video:** [Click](https://drive.google.com/file/d/1jWWxH_QJYnLCdLA5nYyXUyBvDT4LN6Zp/view) 
+
+
+
 ## Architecture
 
 The application follows a modular architecture designed for scalability and maintainability.
