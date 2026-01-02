@@ -42,8 +42,8 @@ The application follows a modular architecture designed for scalability and main
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/Ai_DevAssure.git
-    cd Ai_DevAssure
+    git clone https://github.com/K-Tikaraya/File-Based-Multimodal-RAG-for-Test-Case-Use-Case-Generation.git
+    cd rag_project
     ```
 
 2.  **Create a Virtual Environment**:
@@ -59,12 +59,17 @@ The application follows a modular architecture designed for scalability and main
     ```bash
     pip install -r requirements.txt
     ```
+   
 
 4.  **Environment Configuration**:
     Create a `.env` file in the root directory:
     ```env
     GROQ_API_KEY=gsk_ your_api_key_here
     ```
+
+
+5  **Add rag_data_source folder**:
+    In root directory build a folder named rag_data_source to store uploaded folder locally
 
 ## Running the Application
 
